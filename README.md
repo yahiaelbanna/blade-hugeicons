@@ -67,7 +67,7 @@ Also, any standard SVG attributes can be used as well, making it easy to control
 <x-hugeicons-youtube stroke-width="1.5" width="24" height="24" color="red" stroke-linecap="round"/>
 ```
 
-So you can also customize the icon's stroke-width in several ways
+So you can now customize the icon's stroke-width in several ways
 
 ```blade
 <x-hugeicons-youtube stroke-width="1.5"/>
